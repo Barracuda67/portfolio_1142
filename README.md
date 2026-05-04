@@ -10,7 +10,7 @@
 
 ## Experience
 - **Section Leader**, Stanford University Code in Place  
-  - Taught a group of students for the course  
+  - Taught a group of students for the course on programming with Python, including graphics, Karel, and logical problem solving 
   - [Credential](https://digitalcredential.stanford.edu/check/059E82D4A271D21A55BC98E061119D373CFDEEF63B2082866FE8A4B8CB115739aG5adnFZWTc4Tkh0WERsa0w5UCt2SXpxNHUxVGduR3ZNdzRnQ0t4Y3J3Rmg1cUti)
 
 - **Teacher**, Bright Mind Academy (2024–Present)  
