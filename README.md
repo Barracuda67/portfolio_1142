@@ -1,12 +1,19 @@
-## Computer Scientist
+## Educator
 
 ## Education
-- Edexcel IGCSE O Levels, ANS  
-- Edexcel IGCSE A Levels, ANS  
+- Edexcel IGCSE O Levels, Anandaniketan School  
+- Edexcel IGCSE A Levels, Anandaniketan School  
 - Zenva Academy – Python Course  
 - Zenva Academy – Introduction to Game Development 
 - Udemy – Game Development using Unreal and C++ 
+- BSc in CSE, Leading University, Sylhet
 
+## Certifications & Achievements
+- IELTS Academic - Overall Band Score: 8.0
+- Certificate in Sylhet Physics Olympiad
+- Certificate in Sylhet Science Olympiad
+- Certificate in Sylhet Climate Science Olympiad
+- Certificate in Sylhet Business Olympiad
 
 ## Experience
 - **Section Leader**, Stanford University Code in Place  
