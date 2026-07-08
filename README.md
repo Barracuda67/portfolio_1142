@@ -1,4 +1,4 @@
-## Educator
+
 
 ## Education
 - Edexcel IGCSE O Levels, Anandaniketan School  
